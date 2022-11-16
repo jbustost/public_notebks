@@ -1,2 +1,6 @@
 ipywidgets
 IPython
+pandas
+numpy
+datetime
+ipyfilechooser
