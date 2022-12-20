@@ -5,3 +5,6 @@ numpy
 datetime
 ipyfilechooser
 openpyxl
+win32com.client
+sys
+subprocess
